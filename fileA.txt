@@ -1,1 +1,1 @@
-hello this is a file.
+hello this is a file.This is a good way to commit.
